@@ -1,0 +1,9 @@
+*.gif
+*.jpeg
+*.jpg
+*.png
+*.webp
+*.html
+*.DS_Store
+data/survey_results_public.csv
+data/survey_results_public.csv
